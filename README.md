@@ -1,6 +1,7 @@
 # PathSearch-A-Algorithm-
 Implementation of A* Algorithm in Path Planner Application.
 The A* (A-star) algorithm is a popular and efficient pathfinding and graph traversal algorithm used in computer science, particularly in fields like artificial intelligence, robotics, and game development. It is designed to find the shortest path between a start node and a goal node in a graph.
+![image](https://github.com/user-attachments/assets/c06dd261-f192-46ca-84c9-90085c7446aa)
 
 ### **Key Concepts:**
 
